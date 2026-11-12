@@ -8,7 +8,7 @@ started:                         # YYYY-MM-DD, when status becomes active
 models: []                       # e.g. [claude-opus-5-5]
 budget:
   currency: EUR
-  limit: 0                       # hard cap for this project; agents stop before reaching it
+  limit: null                    # optional project cap; null means no fixed cap
 tags: []
 
 # Headline results, shown in README.md and on the website. Only measured results.
