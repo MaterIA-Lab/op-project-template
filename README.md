@@ -14,16 +14,18 @@
 
 ## Best result so far
 
-_None yet._
+_None yet._ See [PROGRESS.md](PROGRESS.md).
 
 ## Explore
 
 | | |
 |---|---|
+| [PROGRESS.md](PROGRESS.md) | What works and what does not so far, in plain language |
 | [GOAL.md](GOAL.md) | The research question and how success is measured |
 | [SUMMARY.md](SUMMARY.md) | Human-readable summary of results, prototypes and failures |
 | [notes/](notes/) | Obsidian vault with everything learned along the way |
 | [runs/](runs/) | One log per agent iteration |
+| [notes/agent-brief.md](notes/agent-brief.md) | Current state of the research for AI agents |
 | [prototypes/humans/](prototypes/humans/) | Prototypes you can use |
 | [prototypes/agents/](prototypes/agents/) | Every experimental variant, including the failed ones |
 
